@@ -1,5 +1,5 @@
 # Manufacturer
-深圳市嘉润源电子有限公司
+深圳市嘉润源电子有限公司  
 SHENZHEN TECH-SOURCE ELECTRONICS CO.,LTD
 
 # Board Type
